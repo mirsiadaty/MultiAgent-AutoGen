@@ -15,6 +15,7 @@ There are two agents in this MAS:
 + 2.user-proxy agent.
 
 The following is the conversation between the agents where they get the job done.
+This is an excerpt; see the report document for details.
 
 The question we asked the MAS is:
 
