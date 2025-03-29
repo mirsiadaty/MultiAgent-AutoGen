@@ -21,3 +21,14 @@ The question we asked the MAS is:
 ```
 What date is today? Which big tech stock has the largest year-to-date gain this year? How much is the gain?
 ```
+
+assistant (to user_proxy):
+```
+To get the current date and find out which big tech stock has the largest year-to-date gain, we'll need to follow these steps:
+
+1. Get today's date.
+2. Fetch the year-to-date gains of major tech stocks.
+3. Compare these gains to find the largest one.
+
+First, let's get today's date using Python:
+```
