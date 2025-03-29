@@ -4,8 +4,9 @@ Multi-Agent System, MAS
 
 Using open-source AugoGen, and local LM language model
 
+``
 see: https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/
-
+```
 
 There are two agents in this MAS: 1.assistant agent, 2.user proxy agent.
 
