@@ -12,8 +12,8 @@ see: https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/
 
 There are two agents in this MAS: 1.assistant agent, 2.user proxy agent.
 
-1.assistant agent,
-2.user proxy agent.
++ 1.assistant agent,
++ 2.user proxy agent.
 
 The following is the conversation between the agents where they get the job done.
 
