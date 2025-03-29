@@ -4,7 +4,7 @@ Multi-Agent System, MAS
 
 Using open-source AugoGen, and local LM language model
 
-``
+```
 see: https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/
 ```
 
